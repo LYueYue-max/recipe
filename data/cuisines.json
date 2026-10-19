@@ -1,0 +1,11 @@
+[
+  {"id":"chinese","name":"中国菜","file":"recipes-chinese.json"},
+  {"id":"japanese-korean","name":"日韩菜","file":"recipes-japanese-korean.json"},
+  {"id":"southeast-asian","name":"东南亚菜","file":"recipes-southeast-asian.json"},
+  {"id":"south-asian","name":"南亚菜","file":"recipes-south-asian.json"},
+  {"id":"middle-eastern","name":"中东菜","file":"recipes-middle-eastern.json"},
+  {"id":"mediterranean","name":"地中海菜","file":"recipes-mediterranean.json"},
+  {"id":"european","name":"欧洲菜","file":"recipes-european.json"},
+  {"id":"american","name":"美洲菜","file":"recipes-american.json"},
+  {"id":"african","name":"非洲代表菜","file":"recipes-african.json"}
+]
